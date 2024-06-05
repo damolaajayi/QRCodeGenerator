@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1SNolLntyROHNS+fqx+PYJskapSAG/N4npDXrVwoT5+rFNNYrylS5vlujBR9fJFrhz4FxrmzNGmC+WUc9MlEdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\QRReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdedamolaAjayi\\.nuget\\packages\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

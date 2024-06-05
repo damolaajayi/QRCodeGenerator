@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|c:\\users\\adedamolaajayi\\source\\repos\\qrreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|c:\\users\\adedamolaajayi\\source\\repos\\qrreader\\qrdb\\qrcodesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|solutionrelative:qrdb\\qrcodesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|c:\\users\\adedamolaajayi\\source\\repos\\qrreader\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|c:\\users\\adedamolaajayi\\source\\repos\\qrreader\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|c:\\users\\adedamolaajayi\\source\\repos\\qrreader\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A178B7-4CCE-420B-9449-577C7DC3F2B0}|QRReader.csproj|solutionrelative:models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QrCodesDb.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\QrDB\\QrCodesDb.cs",
+              "RelativeDocumentMoniker": "QrDB\\QrCodesDb.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\QrDB\\QrCodesDb.cs",
+              "RelativeToolTip": "QrDB\\QrCodesDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:58:53.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:57:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:08:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T14:05:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\AdedamolaAjayi\\source\\repos\\QRReader\\Models\\HomeModel.cs",
+              "RelativeToolTip": "Models\\HomeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:04:29.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
